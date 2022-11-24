@@ -37,15 +37,15 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                 <input type="hidden" name="action" value="login">
                 <div class="input-group">
                     
-                    <input name="username" type="text" class="form-control" placeholder="用户名">
+                    <input id="username_Login" name="username" type="text" class="form-control" placeholder="用户名">
                 </div>
                 <div class="input-group">
                     
-                    <input name="password" type="password" class="form-control" placeholder="密码">
+                    <input id="password_Login" name="password" type="password" class="form-control" placeholder="密码">
                 </div>
                 <div class="form-inline">
-                    <button type="submit" class="btn login">登录</button>
-                    <button type="button" class="btn sign " onclick='location.href=("./register.jsp")'>注册</button>
+                    <button id="loginBtn_login" type="submit" class="btn login">登录</button>
+                    <button id="registerBtn_Login" type="button" class="btn sign " onclick='location.href=("./register.jsp")'>注册</button>
                 </div>
             </form>
         </div>
