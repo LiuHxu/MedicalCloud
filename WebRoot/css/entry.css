@@ -1,0 +1,30 @@
+/* body {
+				background: url(image/ba.jpg);
+				background-repeat: no-repeat;
+				background-size: 100%;
+				text-align: center;
+				font-family:YouYuan;
+				color: #87CEFA;
+			}
+			h1{
+				margin-top: 150px;
+				font-size: 4em;
+			}
+			.vintage{
+			background: #EEE url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAHklEQVQImWNkYGBgYGD4//8/A5wF5SBYyAr+//8PAPOCFO0Q2zq7AAAAAElFTkSuQmCC) repeat;
+			text-shadow: 5px -5px black, 4px -4px white;
+			font-weight: bold;
+			-webkit-text-fill-color: transparent;
+			-webkit-background-clip: text }
+			a:link{
+				color: #ff55ff;
+			}
+			a:visited{
+				color: red;
+			}
+			a:hover{
+				color:yellow
+			}
+			h3{
+				font-size:3em;
+			} */

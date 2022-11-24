@@ -1,0 +1,52 @@
+.hospital_info {
+    line-height: 1.6em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 18px;
+    margin: 45px;
+    width: 800px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.hospital_info a {
+    text-decoration: none;
+}
+
+.hospital_info thead th.rounded-company {
+    background: #819efe left -1px no-repeat;
+}
+
+.hospital_info thead th.rounded-q4 {
+    background: #819efe right -1px no-repeat;
+}
+
+.hospital_info th {
+    padding: 10px;
+    font-weight: normal;
+    font-size: 20px;
+    color: #039;
+    background: #819efe;
+}
+
+.hospital_info td {
+    padding: 8px;
+    background: #e8edff;
+    border-top: 1px solid #fff;
+    color: #669;
+}
+
+.hospital_info tfoot td.rounded-foot-left {
+    background: #e8edff left bottom no-repeat;
+}
+
+.hospital_info tfoot td {
+    background: #e8edff right bottom no-repeat;
+}
+
+.hospital_info tbody tr:hover td {
+    background: #d0dafd;
+}
+
+.hospital_info em {
+    font-size: 12px;
+}

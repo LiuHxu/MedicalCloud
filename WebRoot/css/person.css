@@ -1,0 +1,18 @@
+body{
+	background:url(image/back.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family:YouYuan;
+	font-weight:bold;
+}
+
+h1{
+	color: gray;
+	text-align: center;
+	font-family:"微软雅黑","黑体","宋体";
+	font-size: 2.5em;
+}
+
+label{
+		text-align-last: justify;
+}
